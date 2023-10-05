@@ -1,1 +1,3 @@
-# netflix-project
+# Netflix ETL Project
+
+## Architecture Diagram
